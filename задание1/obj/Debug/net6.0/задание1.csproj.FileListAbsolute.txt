@@ -1,0 +1,15 @@
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.csproj.AssemblyReference.cache
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.AssemblyInfoInputs.cache
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.AssemblyInfo.cs
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.csproj.CoreCompileInputs.cache
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\bin\Debug\net6.0\задание1.exe
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\bin\Debug\net6.0\задание1.deps.json
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\bin\Debug\net6.0\задание1.runtimeconfig.json
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\bin\Debug\net6.0\задание1.dll
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\bin\Debug\net6.0\задание1.pdb
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.dll
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\refint\задание1.dll
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.pdb
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\задание1.genruntimeconfig.cache
+C:\Users\finnh\Desktop\C#\Семинар1\задание1\obj\Debug\net6.0\ref\задание1.dll
